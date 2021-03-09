@@ -22,7 +22,7 @@ title: Jay Grogan - NYC Personal Training, DJ, Modeling, Acting
 description: >- # this means to ignore newlines until "baseurl:"
   NYC-based personal trainer, DJ, and model/actor. Get customized workout routines and personalized meal plans. Find an experienced DJ for your event/party.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://maxgardner.github.io/jaygrogan.me
+url: https://jaygrogan.me
 
 # Build settings
 theme: minima
